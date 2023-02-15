@@ -1,0 +1,19 @@
+{
+    "name": "aeroresets",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-clean-css": "*",
+        "gulp-minify-css": "*",
+        "gulp-sass": "*",
+        "gulp-strip-css-comments": "*",
+        "sass": "*"
+    }
+}
